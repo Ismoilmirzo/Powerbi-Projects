@@ -29,7 +29,7 @@ This page is used for navigation and by clicking CTRL and choosing any of those 
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
-### Project: Job Title Drill Through
+### Project: Job  Title Drill Through
 ![Drill Through](images/project1_image2.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
